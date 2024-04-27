@@ -37,7 +37,7 @@ My research interest includes autonomous driving and robotics.
 - ``NeurIPS 2022`` [TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation Supplementary Material](https://proceedings.neurips.cc/paper_files/paper/2022/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf), **Pengfei Li**, Beiwen Tian, Yongliang Shi, Xiaoxue Chen, Hao Zhao, Guyue Zhou, Ya-Qin Zhang.
 
 # 🏆 Competition
-- ```ICRA 2023``` [**1st Place**](https://lcas.lincoln.ac.uk/wp/events/the-pub-r-competition/) in the Preparation and dish Up of an English Breakfast with Robots (PUB.R) competition.
+- ```ICRA 2023``` [1st Place](https://lcas.lincoln.ac.uk/wp/events/the-pub-r-competition/) in the Preparation and dish Up of an English Breakfast with Robots (PUB.R) competition.
 
 # 🎖 Honors and Awards
 - *2021.12* National Scholarship (Undergraduate) (Top 1%)
