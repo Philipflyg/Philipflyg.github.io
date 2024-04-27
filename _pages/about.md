@@ -1,4 +1,4 @@
----
+![image](https://github.com/Philipflyg/Philipflyg.github.io/assets/59141303/8038435d-e3c4-49a5-9e41-f950ae6cc5dd)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,42 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a second-year Ph.D. student at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University, supervised by [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/About_Us/About_dean.htm) and [Prof. Yilun Chen](https://air.tsinghua.edu.cn/en/info/1046/1621.htm). I got the B.S. degree from University of Chinese Academy of Sciences (UCAS) in 2022, supervised by [Prof. Qingming Huang](https://people.ucas.edu.cn/~qmhuang?language=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes autonomous driving and robotics.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+- ```ICRA 2024``` [MonoOcc: Digging into Monocular Semantic Occupancy Prediction](https://arxiv.org/abs/2403.08766), Yupeng Zheng, Xiang Li, **Pengfei Li**, Yuhang Zheng, Bu Jin, Chengliang Zhong, Xiaoxiao Long, Hao Zhao, Qichao Zhang.
+- ```ICCV 2023```[INT2: Interactive Trajectory Prediction at Intersections](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf), Zhijie Yan, **Pengfei Li**, Zheng Fu, Shaocong Xu, Yongliang Shi, Xiaoxue Chen, Yuhang Zheng, Yang Li, Tianyu Liu, Chuxuan Li, Nairui Luo, Xu Gao, Yilun Chen, Zuoxu Wang, Yifeng Shi, Pengfei Huang, Zhengxiao Han, Jirui Yuan, Jiangtao Gong, Guyue Zhou, Hang Zhao, Hao Zhao.
+- ```ICCV 2023```[3D Implicit Transporter for Temporally Consistent Keypoint Discovery](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_3D_Implicit_Transporter_for_Temporally_Consistent_Keypoint_Discovery_ICCV_2023_paper.pdf), Chengliang Zhong, Yuhang Zheng, Yupeng Zheng, Hao Zhao, Li Yi, Xiaodong Mu, Ling Wang, **Pengfei Li**, Guyue Zhou, Chao Yang, Xinliang Zhang, Jian Zhao.
+- ```ICCV 2023```[DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection
+](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_DQS3D_Densely-matched_Quantization-aware_Semi-supervised_3D_Detection_ICCV_2023_paper.pdf), Huan-ang Gao, Beiwen Tian, **Pengfei Li**, Hao Zhao, Guyue Zhou.
+- ``ICRA 2023`` [Lode: Locally conditioned eikonal implicit scene completion from sparse lidar](https://ieeexplore.ieee.org/document/10160552), **Pengfei Li**, Ruowen Zhao, Yongliang Shi, Hao Zhao, Jirui Yuan, Guyue Zhou, Ya-Qin Zhang.
+- ``ICRA 2023`` [Adapt: Action-aware driving caption transformer](https://ieeexplore.ieee.org/document/10160326), Bu Jin, Xinyu Liu, Yupeng Zheng, **Pengfei Li**, Hao Zhao, Tong Zhang, Yuhang Zheng, Guyue Zhou, Jingjing Liu.
+- ``ICRA 2023`` [Steps: Joint self-supervised nighttime image enhancement and depth estimation](https://ieeexplore.ieee.org/document/10160708), Yupeng Zheng, Chengliang Zhong, **Pengfei Li**, Huan-ang Gao, Yuhang Zheng, Bu Jin, Ling Wang, Hao Zhao, Guyue Zhou, Qichao Zhang, Dongbin Zhao.
+- ``ICRA 2023`` [From semi-supervised to omni-supervised room layout estimation using point clouds](https://ieeexplore.ieee.org/document/10161273), Huan-ang Gao, Beiwen Tian, **Pengfei Li**, Xiaoxue Chen, Hao Zhao, Guyue Zhou, Yurong Chen, Hongbin Zha.
+- ``ICRA 2023`` [LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF](https://ieeexplore.ieee.org/document/10161570), Zhenxin Zhu, Yuantao Chen, Zirui Wu, Chao Hou, Yongliang Shi, Chuxuan Li, **Pengfei Li**, Hao Zhao, Guyue Zhou.
+- ``ICRA 2023`` [Unsupervised Road Anomaly Detection with Language Anchors](https://ieeexplore.ieee.org/document/10160470), Beiwen Tian, Mingdao Liu, Huan-ang Gao, **Pengfei Li**, Hao Zhao and Guyue Zhou.
+- ``NeurIPS 2022`` [TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation Supplementary Material](https://proceedings.neurips.cc/paper_files/paper/2022/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf), **Pengfei Li**, Beiwen Tian, Yongliang Shi, Xiaoxue Chen, Hao Zhao, Guyue Zhou, Ya-Qin Zhang.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🏆 Competition
+- ```ICRA 2023``` [**1st Place**](https://lcas.lincoln.ac.uk/wp/events/the-pub-r-competition/) in the Preparation and dish Up of an English Breakfast with Robots (PUB.R) competition.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.12* National Scholarship (Undergraduate) (Top 1%)
+- *2020.12* National Scholarship (Undergraduate) (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - now*, Ph.D. student, Institute for AI Industry Research (AIR), Tsinghua University. 
+- *2018.09 - 2022.06*, Undergraduate, School of Computer Science and Technology, University of Chinese Academy of Sciences. 
