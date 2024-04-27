@@ -1,4 +1,4 @@
-![image](https://github.com/Philipflyg/Philipflyg.github.io/assets/59141303/8038435d-e3c4-49a5-9e41-f950ae6cc5dd)---
+---
 permalink: /
 title: ""
 excerpt: ""
