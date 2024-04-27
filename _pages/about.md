@@ -36,7 +36,7 @@ My research interest includes Autonomous Driving and Robotics.
 - ``ICRA 2023`` [Unsupervised Road Anomaly Detection with Language Anchors](https://ieeexplore.ieee.org/document/10160470), Beiwen Tian, Mingdao Liu, Huan-ang Gao, **Pengfei Li**, Hao Zhao and Guyue Zhou.
 - ``NeurIPS 2022`` [TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation Supplementary Material](https://proceedings.neurips.cc/paper_files/paper/2022/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf), **Pengfei Li**, Beiwen Tian, Yongliang Shi, Xiaoxue Chen, Hao Zhao, Guyue Zhou, Ya-Qin Zhang.
 
-# 🏆 Competition
+# 🏆 Competitions
 - ```ICRA 2023``` [1st Place](https://lcas.lincoln.ac.uk/wp/events/the-pub-r-competition/) in the Preparation and dish Up of an English Breakfast with Robots (PUB.R) competition.
 
 # 🎖 Honors and Awards
