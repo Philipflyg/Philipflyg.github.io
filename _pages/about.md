@@ -48,5 +48,5 @@ My research interest includes Autonomous Driving and Robotics.
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science and Technology, University of Chinese Academy of Sciences. 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&d=G22ZMDy2KEs5OGq6rS0JucNzUxHn13B0tIPWaEGNGJo"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=166&d=G22ZMDy2KEs5OGq6rS0JucNzUxHn13B0tIPWaEGNGJo"></script>
 </div>
