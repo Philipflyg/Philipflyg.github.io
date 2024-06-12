@@ -47,4 +47,6 @@ My research interest includes Autonomous Driving and Robotics.
 - *2022.09 - now*, Ph.D. student, Institute for AI Industry Research (AIR), Tsinghua University. 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science and Technology, University of Chinese Academy of Sciences. 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&d=G22ZMDy2KEs5OGq6rS0JucNzUxHn13B0tIPWaEGNGJo"></script>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&d=G22ZMDy2KEs5OGq6rS0JucNzUxHn13B0tIPWaEGNGJo"></script>
+</div>
