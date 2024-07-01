@@ -23,6 +23,7 @@ My research interest includes Autonomous Driving and Robotics.
 
 
 # 📝 Publications 
+- ```ECCV 2024``` [TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes](https://jxbbb.github.io/TOD3Cap/), Bu Jin, Yupeng Zheng, **Pengfei Li**, Weize Li, Yuhang Zheng, Sujie Hu, Xinyu Liu, Jinwei Zhu, Zhijie Yan, Haiyang Sun, Kun Zhan, Peng Jia, Xiaoxiao Long, Yilun Chen, Hao Zhao.
 - ```ICRA 2024``` [MonoOcc: Digging into Monocular Semantic Occupancy Prediction](https://arxiv.org/abs/2403.08766), Yupeng Zheng, Xiang Li, **Pengfei Li**, Yuhang Zheng, Bu Jin, Chengliang Zhong, Xiaoxiao Long, Hao Zhao, Qichao Zhang.
 - ```ICCV 2023```[INT2: Interactive Trajectory Prediction at Intersections](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf), Zhijie Yan, **Pengfei Li**, Zheng Fu, Shaocong Xu, Yongliang Shi, Xiaoxue Chen, Yuhang Zheng, Yang Li, Tianyu Liu, Chuxuan Li, Nairui Luo, Xu Gao, Yilun Chen, Zuoxu Wang, Yifeng Shi, Pengfei Huang, Zhengxiao Han, Jirui Yuan, Jiangtao Gong, Guyue Zhou, Hang Zhao, Hao Zhao.
 - ```ICCV 2023```[3D Implicit Transporter for Temporally Consistent Keypoint Discovery](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_3D_Implicit_Transporter_for_Temporally_Consistent_Keypoint_Discovery_ICCV_2023_paper.pdf), Chengliang Zhong, Yuhang Zheng, Yupeng Zheng, Hao Zhao, Li Yi, Xiaodong Mu, Ling Wang, **Pengfei Li**, Guyue Zhou, Chao Yang, Xinliang Zhang, Jian Zhao.
