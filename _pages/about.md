@@ -55,7 +55,7 @@ My research interest includes Autonomous Driving and Robotics. And I will be co
 # 📖 Educations
 - *2022.09 - now*, Ph.D. student, Institute for AI Industry Research (AIR), Tsinghua University. 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science and Technology, University of Chinese Academy of Sciences.
--- GPA 3.94/4.00, rank 1/104.
+  - GPA 3.94 / 4.00. Rank 1 / 104.
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=166&d=G22ZMDy2KEs5OGq6rS0JucNzUxHn13B0tIPWaEGNGJo"></script>
