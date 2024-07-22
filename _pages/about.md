@@ -24,9 +24,9 @@ My research interest includes **Autonomous Driving** and **Embodied AI**. And I
 
 # 📝 Publications 
 - ```Preprint``` [PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning](https://arxiv.org/pdf/2406.01587), Yupeng Zheng, Zebin Xing, Qichao Zhang, Bu Jin, **Pengfei Li**, Yuhang Zheng, Zhongpu Xia, Kun Zhan, Xianpeng Lang, Yaran Chen, Dongbin Zhao.
-- ```Preprint``` [P-MapNet: Far-seeing map generator enhanced by both SDMap and HDMap priors](https://arxiv.org/pdf/2403.10521), Zhou Jiang, Zhenxin Zhu, **Pengfei Li**, Huan-ang Gao, Tianyuan Yuan, Yongliang Shi, Hang Zhao, Hao Zhao.
 - ```Preprint``` [Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection](https://arxiv.org/pdf/2309.10230), Shaocong Xu, **Pengfei Li**, Xinyu Liu, Qianpu Sun, Yang Li, Shihui Guo, Zhen Wang, Bo Jiang, Rui Wang, Kehua Sheng, Bo Zhang, Hao Zhao.
 
+- ```IEEE RA-L``` [P-MapNet: Far-seeing map generator enhanced by both SDMap and HDMap priors](https://arxiv.org/pdf/2403.10521), Zhou Jiang, Zhenxin Zhu, **Pengfei Li**, Huan-ang Gao, Tianyuan Yuan, Yongliang Shi, Hang Zhao, Hao Zhao.
 - ```IEEE RA-L``` [GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping](https://arxiv.org/pdf/2403.09637), Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, **Pengfei Li**, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Zhen Chen, Xiaoxiao Long, Meiqing Wang.
 - ```ECCV 2024``` [TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes](https://jxbbb.github.io/TOD3Cap/), Bu Jin, Yupeng Zheng, **Pengfei Li**, Weize Li, Yuhang Zheng, Sujie Hu, Xinyu Liu, Jinwei Zhu, Zhijie Yan, Haiyang Sun, Kun Zhan, Peng Jia, Xiaoxiao Long, Yilun Chen, Hao Zhao.
 - ```ICRA 2024``` [MonoOcc: Digging into Monocular Semantic Occupancy Prediction](https://arxiv.org/abs/2403.08766), Yupeng Zheng, Xiang Li, **Pengfei Li**, Yuhang Zheng, Bu Jin, Chengliang Zhong, Xiaoxiao Long, Hao Zhao, Qichao Zhang.
