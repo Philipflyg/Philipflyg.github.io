@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University, supervised by [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/About_Us/About_dean.htm) and [Prof. Yilun Chen](https://air.tsinghua.edu.cn/en/info/1046/1621.htm). I got the B.S. degree from University of Chinese Academy of Sciences (UCAS) in 2022, supervised by [Prof. Qingming Huang](https://people.ucas.edu.cn/~qmhuang?language=en).
+I am currently a third-year Ph.D. student at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University, supervised by [Prof. Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/About_Us/About_dean.htm) and [Prof. Yilun Chen](https://air.tsinghua.edu.cn/en/info/1046/1621.htm). I got the B.S. degree from University of Chinese Academy of Sciences (UCAS) in 2022, supervised by [Prof. Qingming Huang](https://people.ucas.edu.cn/~qmhuang?language=en).
 
 My research interest includes **Autonomous Driving** and **Embodied AI**. And I will be committed to the development, optimization and deployment of AI algorithms in **real industrial scenarios**.
 
