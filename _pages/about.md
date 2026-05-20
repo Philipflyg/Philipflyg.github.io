@@ -12,29 +12,12 @@ redirect_from:
 <h1>About</h1>
 
 <p>
-I am a fourth-year Ph.D. student at the <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research (AIR)</a>, Tsinghua University, advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a> and <a href="https://air.tsinghua.edu.cn/en/About_Us/About_dean.htm">Prof. Ya-Qin Zhang</a>. I received my B.S. from the University of Chinese Academy of Sciences (UCAS) in 2022, where I worked with <a href="https://people.ucas.edu.cn/~qmhuang?language=en">Prof. Qingming Huang</a>.
+I am a fourth-year Ph.D. student at the <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research (AIR)</a>, Tsinghua University, advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a> and <a href="https://air.tsinghua.edu.cn/en/info/1046/1188.htm">Prof. Ya-Qin Zhang</a>. I received my B.S. from the University of Chinese Academy of Sciences (UCAS) in 2022, where I worked with <a href="https://people.ucas.edu.cn/~qmhuang?language=en">Prof. Qingming Huang</a>.
 </p>
 
 <p>
 My research focuses on <strong>Embodied AI</strong> and <strong>Autonomous Driving</strong>, with the goal of developing, optimizing, and deploying AI algorithms in <strong>real-world industrial scenarios</strong>. I am especially interested in world models, closed-loop motion planning, LiDAR perception, and task-oriented vision-language reasoning.
 </p>
-</section>
-
-<section id="news">
-<h1>News</h1>
-
-<ul class="news-list">
-  <li><span class="news-date">2026.02</span><span class="news-body"><strong>Human and Algorithmic Visual Attention in Driving Tasks</strong> published in <strong>npj Artificial Intelligence</strong> (Nature).</span></li>
-  <li><span class="news-date">2026.03</span><span class="news-body"><a href="https://arxiv.org/abs/2603.02856"><strong>Rhythm</strong></a> accepted to <strong>RSS 2026</strong> &mdash; first dual-humanoid interactive whole-body control framework, deployed on real Unitree G1 robots.</span></li>
-  <li><span class="news-date">2025.10</span><span class="news-body"><strong>World4Drive</strong> accepted to <strong>ICCV 2025</strong>.</span></li>
-  <li><span class="news-date">2025.06</span><span class="news-body"><strong>Bench4Merge</strong> accepted to <strong>IROS 2025</strong>.</span></li>
-  <li><span class="news-date">2025.05</span><span class="news-body">Released <a href="https://arxiv.org/pdf/2505.17209"><strong>LiloDriver</strong></a>, a lifelong learning framework for long-tail motion planning.</span></li>
-  <li><span class="news-date">2025.02</span><span class="news-body">Released <a href="https://arxiv.org/abs/2502.07309"><strong>PreWorld</strong></a>, a semi-supervised vision-centric 3D occupancy world model.</span></li>
-  <li><span class="news-date">2025.02</span><span class="news-body"><strong>MMTL-UniAD</strong> accepted to <strong>CVPR 2025</strong>.</span></li>
-  <li><span class="news-date">2025.01</span><span class="news-body"><strong>Dual-AEB</strong> accepted to <strong>ICRA 2025</strong>.</span></li>
-  <li><span class="news-date">2024.12</span><span class="news-body"><strong>LiON</strong> accepted to <strong>AAAI 2025</strong>.</span></li>
-  <li><span class="news-date">2024.07</span><span class="news-body"><strong>TOD3Cap</strong> accepted to <strong>ECCV 2024</strong>.</span></li>
-</ul>
 </section>
 
 <section id="publications">
@@ -46,7 +29,7 @@ First-author / co-first-author works are highlighted below. A full list — incl
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="https://arxiv.org/abs/2603.02856"><img src="images/publications/rhythm.png" alt="Rhythm teaser"></a>
+    <a href="https://arxiv.org/abs/2603.02856"><img src="images/publications/rhythm.jpg" alt="Rhythm teaser"></a>
   </div>
   <div class="paper-box-text">
     <span class="venue-tag venue-tag--accent">RSS 2026</span>
@@ -71,7 +54,6 @@ First-author / co-first-author works are highlighted below. A full list — incl
     <p class="paper-tagline">Decomposes human driving attention into spatial / feature-based / mixed phases and shows that injecting human semantic attention closes both the "reasoning" and "grounding" gaps of detection, planning, and VLM models.</p>
     <p class="paper-links">
       <a href="https://www.nature.com/articles/s44387-026-00079-1">Paper</a>
-      <a href="https://doi.org/10.1038/s44387-026-00079-1">DOI</a>
     </p>
   </div>
 </div>
@@ -94,7 +76,7 @@ First-author / co-first-author works are highlighted below. A full list — incl
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="https://arxiv.org/abs/2309.10230"><img src="images/publications/lion.png" alt="LiON teaser"></a>
+    <a href="https://arxiv.org/abs/2309.10230"><img src="images/publications/lion.jpg" alt="LiON teaser"></a>
   </div>
   <div class="paper-box-text">
     <span class="venue-tag venue-tag--accent">AAAI 2025</span>
@@ -119,7 +101,6 @@ First-author / co-first-author works are highlighted below. A full list — incl
     <p class="paper-tagline">An eikonal-constrained implicit representation that turns sparse outdoor LiDAR into dense semantic 3D scenes — the first locally conditioned eikonal completion for autonomous driving.</p>
     <p class="paper-links">
       <a href="https://arxiv.org/abs/2302.14052">Paper</a>
-      <a href="https://ieeexplore.ieee.org/document/10160552">IEEE</a>
       <a href="https://github.com/AIR-DISCOVER/LODE">Code</a>
     </p>
   </div>
@@ -127,7 +108,7 @@ First-author / co-first-author works are highlighted below. A full list — incl
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf"><img src="images/publications/toist.png" alt="TOIST teaser"></a>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf"><img src="images/publications/toist.jpg" alt="TOIST teaser"></a>
   </div>
   <div class="paper-box-text">
     <span class="venue-tag venue-tag--accent">NeurIPS 2022</span>
@@ -195,3 +176,10 @@ First-author / co-first-author works are highlighted below. A full list — incl
   <li><span class="when">2018 – 2022</span>B.S., School of Computer Science and Technology, University of Chinese Academy of Sciences. <em>GPA 3.94 / 4.00, Rank 1 / 104.</em></li>
 </ul>
 </section>
+
+<div class="footer-banner" role="img" aria-label="Beijing night skyline">
+  <div class="footer-banner__overlay"></div>
+  <div class="footer-banner__caption">
+    Beijing
+  </div>
+</div>
