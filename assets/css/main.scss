@@ -167,7 +167,7 @@
     height: 280px;
     background-image: url("../../images/banner-bund-hd.jpg");
     background-size: cover;
-    background-position: center 60%;
+    background-position: center 50%;
     background-repeat: no-repeat;
     overflow: hidden;
     margin-bottom: 0;
@@ -233,7 +233,7 @@
     &__body {
         flex: 1;
         min-width: 0;
-        padding-top: 3.5em;
+        padding-top: 5.5em;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
