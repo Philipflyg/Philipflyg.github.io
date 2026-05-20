@@ -78,39 +78,6 @@ First-author / co-first-author works are highlighted below. A full list — incl
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="https://arxiv.org/abs/2502.07309"><img src="images/publications/preworld.png" alt="PreWorld teaser"></a>
-  </div>
-  <div class="paper-box-text">
-    <span class="venue-tag venue-tag--accent">ICLR 2025</span>
-    <a class="paper-title" href="https://arxiv.org/abs/2502.07309">Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving</a>
-    <p class="paper-authors">Xiang Li<sup>*</sup>, <span class="me">Pengfei Li</span><sup>*</sup>, Yupeng Zheng, Wei Sun, Yan Wang, Yilun Chen.</p>
-    <p class="paper-tagline">A two-stage occupancy world model that leverages cheap 2D labels via volume rendering, then fine-tunes with full 3D supervision for occupancy and ego-trajectory forecasting.</p>
-    <p class="paper-links">
-      <a href="https://arxiv.org/abs/2502.07309">Paper</a>
-      <a href="https://arxiv.org/pdf/2502.07309">PDF</a>
-      <a href="https://github.com/getterupper/PreWorld">Code</a>
-    </p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <a href="https://arxiv.org/pdf/2505.17209"><img src="images/publications/lilodriver.png" alt="LiloDriver teaser"></a>
-  </div>
-  <div class="paper-box-text">
-    <span class="venue-tag">Preprint 2025</span>
-    <a class="paper-title" href="https://arxiv.org/pdf/2505.17209">LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios</a>
-    <p class="paper-authors">Huaiyuan Yao<sup>*</sup>, <span class="me">Pengfei Li</span><sup>*</sup>, Bu Jin, Yupeng Zheng, An Liu, Lisen Mu, Qing Su, Qian Zhang, Yilun Chen, Peng Li.</p>
-    <p class="paper-tagline">A memory-augmented LLM-guided planner that adapts to novel long-tail driving scenarios without retraining; SOTA on nuPlan.</p>
-    <p class="paper-links">
-      <a href="https://arxiv.org/pdf/2505.17209">Paper</a>
-      <a href="https://github.com/Hyan-Yao/LiloDriver">Code</a>
-    </p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
     <a href="https://arxiv.org/abs/2410.08616"><img src="images/publications/dual-aeb.png" alt="Dual-AEB teaser"></a>
   </div>
   <div class="paper-box-text">
@@ -178,6 +145,8 @@ First-author / co-first-author works are highlighted below. A full list — incl
   <summary>More publications (collaborations &amp; older works)</summary>
   <div class="more-pubs__list">
     <ul>
+      <li><span class="venue-tag">ICLR 2025</span> <a href="https://arxiv.org/abs/2502.07309">Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving</a>. Xiang Li, <span class="me">Pengfei Li</span>, Yupeng Zheng, Wei Sun, Yan Wang, Yilun Chen.</li>
+      <li><span class="venue-tag">Preprint 2025</span> <a href="https://arxiv.org/pdf/2505.17209">LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios</a>. Huaiyuan Yao<sup>*</sup>, <span class="me">Pengfei Li</span><sup>*</sup>, Bu Jin, Yupeng Zheng, An Liu, Lisen Mu, Qing Su, Qian Zhang, Yilun Chen, Peng Li.</li>
       <li><span class="venue-tag">ICCV 2025</span> <a href="https://arxiv.org/abs/2507.00603">World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model</a>. Yupeng Zheng, Pengxuan Yang, Zebin Xing, Qichao Zhang, Yuhang Zheng, Yinfeng Gao, <span class="me">Pengfei Li</span>, Teng Zhang, Zhongpu Xia, Peng Jia, Dongbin Zhao.</li>
       <li><span class="venue-tag">CVPR 2025</span> <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MMTL-UniAD_A_Unified_Framework_for_Multimodal_and_Multi-Task_Learning_in_CVPR_2025_paper.pdf">MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception</a>. Wenzhuo Liu, Wenshuo Wang, Yicheng Qiao, Qiannan Guo, Jiayin Zhu, <span class="me">Pengfei Li</span>, Zilong Chen, Huiming Yang, Zhiwei Li, Lening Wang, Tiao Tan, Huaping Liu.</li>
       <li><span class="venue-tag">IROS 2025</span> <a href="https://arxiv.org/abs/2410.15912">Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles</a>. Zhengming Wang, Junli Wang, <span class="me">Pengfei Li</span>, Zhaohan Li, Chunyang Liu, Bo Zhang, Peng Li, Yilun Chen.</li>
