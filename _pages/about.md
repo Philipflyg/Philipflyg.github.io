@@ -25,7 +25,7 @@ My research focuses on <strong>Embodied AI</strong> and <strong>Autonomous Drivi
 
 <ul class="news-list">
   <li><span class="news-date">2026.02</span><span class="news-body"><strong>Human and Algorithmic Visual Attention in Driving Tasks</strong> published in <strong>npj Artificial Intelligence</strong> (Nature).</span></li>
-  <li><span class="news-date">2026.03</span><span class="news-body">Released <a href="https://arxiv.org/abs/2603.02856"><strong>Rhythm</strong></a>, a dual-humanoid interactive whole-body control framework, deployed on real Unitree G1 robots.</span></li>
+  <li><span class="news-date">2026.03</span><span class="news-body"><a href="https://arxiv.org/abs/2603.02856"><strong>Rhythm</strong></a> accepted to <strong>RSS 2026</strong> &mdash; first dual-humanoid interactive whole-body control framework, deployed on real Unitree G1 robots.</span></li>
   <li><span class="news-date">2025.10</span><span class="news-body"><strong>World4Drive</strong> accepted to <strong>ICCV 2025</strong>.</span></li>
   <li><span class="news-date">2025.06</span><span class="news-body"><strong>Bench4Merge</strong> accepted to <strong>IROS 2025</strong>.</span></li>
   <li><span class="news-date">2025.05</span><span class="news-body">Released <a href="https://arxiv.org/pdf/2505.17209"><strong>LiloDriver</strong></a>, a lifelong learning framework for long-tail motion planning.</span></li>
@@ -49,7 +49,7 @@ First-author / co-first-author works are highlighted below. A full list — incl
     <a href="https://arxiv.org/abs/2603.02856"><img src="images/publications/rhythm.png" alt="Rhythm teaser"></a>
   </div>
   <div class="paper-box-text">
-    <span class="venue-tag">Preprint 2026</span>
+    <span class="venue-tag venue-tag--accent">RSS 2026</span>
     <a class="paper-title" href="https://arxiv.org/abs/2603.02856">Rhythm: Learning Interactive Whole-Body Control for Dual Humanoids</a>
     <p class="paper-authors">Hongjin Chen<sup>*</sup>, Wei Zhang<sup>*</sup>, <span class="me">Pengfei Li</span><sup>*</sup>, Shihao Ma, Ke Ma, Yujie Jin, Zijun Xu, Xiaohui Wang, Yupeng Zheng, Zining Wang, Jieru Zhao, Yilun Chen, Wenchao Ding.</p>
     <p class="paper-tagline">First unified framework for real-world dual-humanoid whole-body interaction — interaction-aware retargeting + interaction-guided RL — deployed on Unitree G1 (greeting, hugging, dancing).</p>
@@ -195,7 +195,3 @@ First-author / co-first-author works are highlighted below. A full list — incl
   <li><span class="when">2018 – 2022</span>B.S., School of Computer Science and Technology, University of Chinese Academy of Sciences. <em>GPA 3.94 / 4.00, Rank 1 / 104.</em></li>
 </ul>
 </section>
-
-<div style="display:flex;justify-content:center;align-items:center;margin-top:3em;opacity:0.9;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=166&d=G22ZMDy2KEs5OGq6rS0JucNzUxHn13B0tIPWaEGNGJo"></script>
-</div>
