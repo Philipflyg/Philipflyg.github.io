@@ -16,7 +16,7 @@ I am a fourth-year Ph.D. student at the <a href="https://air.tsinghua.edu.cn/">I
 </p>
 
 <p>
-My research focuses on <strong>Embodied AI</strong> and <strong>Autonomous Driving</strong>, with the goal of developing, optimizing, and deploying AI algorithms in <strong>real-world industrial scenarios</strong>. I am especially interested in world models, closed-loop motion planning, LiDAR perception, and task-oriented vision-language reasoning.
+My research focuses on <strong>Embodied AI</strong> and <strong>Autonomous Driving</strong>, with the goal of developing, optimizing, and deploying AI algorithms in <strong>real-world industrial scenarios</strong>. I am especially interested in humanoid whole-body control, loco-manipulation, and world model.
 </p>
 </section>
 
@@ -123,7 +123,7 @@ First-author / co-first-author works are highlighted below. A full list — incl
 </div>
 
 <details class="more-pubs">
-  <summary>More publications (collaborations &amp; older works)</summary>
+  <summary>More publications</summary>
   <div class="more-pubs__list">
     <ul>
       <li><span class="venue-tag">ICLR 2025</span> <a href="https://arxiv.org/abs/2502.07309">Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving</a>. Xiang Li, <span class="me">Pengfei Li</span>, Yupeng Zheng, Wei Sun, Yan Wang, Yilun Chen.</li>
