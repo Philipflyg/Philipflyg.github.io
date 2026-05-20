@@ -1,0 +1,35 @@
+{% assign author = site.author %}
+<header class="hero" id="top">
+  <div class="hero__avatar">
+    <img src="{{ author.avatar }}" alt="{{ author.name }}">
+  </div>
+  <h1 class="hero__name">{{ author.name }}</h1>
+  <p class="hero__role">Ph.D. Student, Embodied AI &amp; Autonomous Driving</p>
+  <p class="hero__affil">
+    <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>,
+    Tsinghua University &middot; Beijing, China
+  </p>
+  <ul class="hero__links">
+    {% if author.email %}
+      <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a></li>
+    {% endif %}
+    {% if author.googlescholar %}
+      <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+    {% endif %}
+    {% if author.github %}
+      <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github"></i> GitHub</a></li>
+    {% endif %}
+    {% if author.linkedin %}
+      <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+    {% endif %}
+    {% if author.twitter %}
+      <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter"></i> Twitter</a></li>
+    {% endif %}
+    {% if author.researchgate %}
+      <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate"></i> ResearchGate</a></li>
+    {% endif %}
+    {% if author.orcid %}
+      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a></li>
+    {% endif %}
+  </ul>
+</header>

@@ -46,9 +46,8 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: 1px solid $border-color;
+    padding: 1.6em 0;
 
     .paper-box-image{
         justify-content: center;
@@ -56,29 +55,80 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            max-width: 100%;
+            width: 100%;
+            border-radius: 6px;
+            border: 1px solid $border-color;
             object-fit: cover;
+            transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+        }
+        a:hover img {
+            box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+            transform: translateY(-1px);
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        font-size: 0.95em;
+        line-height: 1.55;
+
+        .paper-title {
+            font-weight: 600;
+            font-size: 1.05em;
+            color: $text-color;
+            display: inline-block;
+            margin-bottom: 0.25em;
+            text-decoration: none;
+            &:hover { color: $primary-color; text-decoration: underline; }
+        }
+        .paper-authors {
+            color: #444;
+            margin: 0.2em 0 0.4em;
+            .me { font-weight: 700; color: $text-color; }
+        }
+        .paper-meta {
+            margin: 0.25em 0 0.6em;
+            color: #555;
+            font-size: 0.92em;
+        }
+        .paper-tagline {
+            color: #555;
+            font-style: italic;
+            margin: 0.2em 0 0.6em;
+        }
+        .paper-links a {
+            display: inline-block;
+            margin-right: 0.35em;
+            margin-bottom: 0.25em;
+            padding: 0.15em 0.7em;
+            font-size: 0.85em;
+            border: 1px solid $border-color;
+            border-radius: 999px;
+            color: $primary-color;
+            text-decoration: none;
+            background: #fff;
+            transition: all 0.15s ease-in-out;
+            &:hover { background: $primary-color; color: #fff; border-color: $primary-color; }
+        }
     }
-    
+
     @include breakpoint($medium) {
+        flex-wrap: nowrap;
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 280px;
+            max-width: 38%;
+            flex: 0 0 38%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 1.5em;
+            max-width: 62%;
+            flex: 1 1 62%;
             order: 2;
         }
 
@@ -87,13 +137,215 @@
 
 }
 
+/* venue chip — replaces ``` `Venue` ``` look from the old list */
+.venue-tag {
+    display: inline-block;
+    padding: 0.05em 0.55em;
+    margin-right: 0.4em;
+    font-size: 0.82em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: $primary-color;
+    background: rgba(11, 61, 145, 0.07);
+    border: 1px solid rgba(11, 61, 145, 0.18);
+    border-radius: 4px;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.venue-tag--accent {
+    color: #fff;
+    background: $primary-color;
+    border-color: $primary-color;
+}
+
+/* hero / profile header */
+.hero {
+    text-align: center;
+    padding: 2.4em 0 1.6em;
+    border-bottom: 1px solid $border-color;
+    margin-bottom: 1em;
+
+    &__avatar img {
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 1px solid $border-color;
+        box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+    }
+    &__name {
+        margin: 0.6em 0 0.1em;
+        font-size: 2.2em;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+        color: $text-color;
+    }
+    &__role {
+        margin: 0.1em 0 0.2em;
+        font-size: 1.05em;
+        color: #444;
+    }
+    &__affil {
+        margin: 0;
+        font-size: 0.95em;
+        color: #666;
+        a { color: inherit; text-decoration: none; border-bottom: 1px dotted #999; }
+        a:hover { color: $primary-color; border-bottom-color: $primary-color; }
+    }
+    &__links {
+        margin: 1em 0 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.6em 1.1em;
+        justify-content: center;
+        font-size: 0.95em;
+
+        a {
+            color: #444;
+            text-decoration: none;
+            border-bottom: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35em;
+            &:hover { color: $primary-color; }
+            i { font-size: 1.05em; }
+        }
+    }
+    @include breakpoint(max-width $small) {
+        padding: 1.6em 0 1.2em;
+        &__avatar img { width: 140px; height: 140px; }
+        &__name { font-size: 1.7em; }
+    }
+}
+
+/* news list */
+.news-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5em 0 0;
+    max-height: 14em;
+    overflow-y: auto;
+    border: 1px solid $border-color;
+    border-radius: 6px;
+    padding: 0.6em 1em;
+    background: #fcfcfd;
+
+    li {
+        display: flex;
+        gap: 0.8em;
+        padding: 0.35em 0;
+        border-bottom: 1px dashed $border-color;
+        font-size: 0.95em;
+        line-height: 1.5;
+        &:last-child { border-bottom: none; }
+        .news-date {
+            flex: 0 0 5.5em;
+            font-variant-numeric: tabular-nums;
+            color: $primary-color;
+            font-weight: 600;
+        }
+        .news-body { color: #333; }
+    }
+}
+
+/* details / more-publications collapse */
+details.more-pubs {
+    margin: 1.4em 0 0;
+    border: 1px solid $border-color;
+    border-radius: 6px;
+    background: #fafbfc;
+    padding: 0 1em;
+
+    > summary {
+        list-style: none;
+        cursor: pointer;
+        padding: 0.7em 0;
+        font-weight: 600;
+        color: $primary-color;
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+        outline: none;
+        &::-webkit-details-marker { display: none; }
+        &::before {
+            content: "▸";
+            display: inline-block;
+            transition: transform 0.18s ease;
+            color: $primary-color;
+        }
+    }
+    &[open] > summary::before { transform: rotate(90deg); }
+
+    > .more-pubs__list {
+        padding: 0.4em 0 0.8em;
+        border-top: 1px solid $border-color;
+
+        ul { padding-left: 1.2em; }
+        li {
+            font-size: 0.93em;
+            line-height: 1.55;
+            margin-bottom: 0.55em;
+            color: #333;
+            a { color: $primary-color; }
+            .me { font-weight: 700; color: $text-color; }
+        }
+    }
+}
+
+/* section headings on the homepage */
+.page__content h1 {
+    font-size: 1.55em;
+    font-weight: 700;
+    margin-top: 1.8em;
+    padding-bottom: 0.35em;
+    border-bottom: 2px solid $primary-color;
+    color: $text-color;
+}
+.page__content h1 a { color: inherit; text-decoration: none; }
+
+/* anchor offset so sticky masthead doesn't cover headings */
+.page__content h1,
+.page__content h2,
+.page__content .anchor {
+    scroll-margin-top: 4.5em;
+}
+
+/* compact awards / education lists */
+.simple-list { padding-left: 1.2em; margin: 0.6em 0; }
+.simple-list li {
+    font-size: 0.95em;
+    line-height: 1.55;
+    margin-bottom: 0.35em;
+    color: #333;
+    .when { color: $primary-color; font-weight: 600; margin-right: 0.4em; font-variant-numeric: tabular-nums; }
+}
+
+/* tighten container on very wide screens */
+#main {
+    @include breakpoint($x-large) {
+        max-width: 920px;
+    }
+}
+
+/* the original sidebar reserved 2/12 columns; on the homepage we now use full width */
+.page--full {
+    @include breakpoint($large) {
+        float: none;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+}
+
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
