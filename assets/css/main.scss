@@ -209,7 +209,7 @@
 .hero {
     display: flex;
     flex-direction: row;
-    align-items: flex-end;
+    align-items: stretch;
     gap: 2.2em;
     padding: 1.8em 0 1.6em;
     border-bottom: 1px solid $border-color;
@@ -234,6 +234,12 @@
         flex: 1;
         min-width: 0;
         padding-top: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    &__footer {
+        /* role, affil, links group — pinned to bottom of photo */
     }
     &__name {
         margin: 0 0 0.2em;
@@ -299,7 +305,7 @@
     background-position: center 40%;
     background-repeat: no-repeat;
     overflow: hidden;
-    margin-top: 5em;
+    margin-top: 8em;
 
     &__overlay {
         position: absolute;

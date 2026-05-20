@@ -173,7 +173,9 @@ First-author / co-first-author works are highlighted below. A full list — incl
 
 <ul class="simple-list">
   <li><span class="when">2022 – Present</span>Ph.D. Student, Institute for AI Industry Research (AIR), Tsinghua University.</li>
-  <li><span class="when">2018 – 2022</span>B.S., School of Computer Science and Technology, University of Chinese Academy of Sciences. <em>GPA 3.94 / 4.00, Rank 1 / 104.</em></li>
+  <li><span class="when">2018 – 2022</span>B.S., School of Computer Science and Technology, University of Chinese Academy of Sciences.
+    <ul style="margin:0.2em 0 0;padding-left:0;list-style:none;"><li style="font-size:0.92em;color:#666;"><em>GPA 3.94 / 4.00, Rank 1 / 104.</em></li></ul>
+  </li>
 </ul>
 </section>
 
