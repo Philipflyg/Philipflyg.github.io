@@ -187,9 +187,9 @@ First-author / co-first-author works are highlighted below. A full list — incl
 </ul>
 </section>
 
-<div class="footer-banner" role="img" aria-label="Shanghai night skyline">
+<div class="footer-banner" role="img" aria-label="Beijing night skyline">
   <div class="footer-banner__overlay"></div>
   <div class="footer-banner__caption">
-    Shanghai
+    Beijing
   </div>
 </div>
