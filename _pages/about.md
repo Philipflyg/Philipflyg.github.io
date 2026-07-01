@@ -12,7 +12,7 @@ redirect_from:
 <h1>About</h1>
 
 <p>
-I am an Algorithm Engineer at TARS Robotics. I received my Ph.D. from the <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research (AIR)</a>, Tsinghua University, where I was advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a> and <a href="https://air.tsinghua.edu.cn/en/info/1046/1188.htm">Prof. Ya-Qin Zhang</a>. Prior to that, I received my B.S. from the University of Chinese Academy of Sciences (UCAS) in 2022, where I worked with <a href="https://people.ucas.edu.cn/~qmhuang?language=en">Prof. Qingming Huang</a>.
+I am an Algorithm Engineer at TARS Robotics. I received my Ph.D. in 2026 from the <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research (AIR)</a>, Tsinghua University, where I was advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a> and <a href="https://air.tsinghua.edu.cn/en/info/1046/1188.htm">Prof. Ya-Qin Zhang</a>. Prior to that, I received my B.S. from the University of Chinese Academy of Sciences (UCAS) in 2022, where I worked with <a href="https://people.ucas.edu.cn/~qmhuang?language=en">Prof. Qingming Huang</a>.
 </p>
 
 <p>
