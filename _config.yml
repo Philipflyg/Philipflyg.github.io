@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengfei Li"
-description              : "PhD student at Institute for AI Industry Research (AIR), Tsinghua University.\n\n Focusing on Autonomous Driving and Robotics."
+description              : "Algorithm Engineer at TARS Robotics. Ph.D. from Institute for AI Industry Research (AIR), Tsinghua University.\n\n Focusing on Embodied AI, Autonomous Driving and Robotics."
 repository               : "Philipflyg/Philipflyg.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengfei Li"
   avatar           : "images/avatar.jpg"
-  bio              : "AIR, Tsinghua University"
+  bio              : "Algorithm Engineer, TARS Robotics"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hmii_L8AAAAJ"
-  email            : "li-pf22@mails.tsinghua.edu.cn"
+  email            : "elvis.pengfeili@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

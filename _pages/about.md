@@ -12,7 +12,7 @@ redirect_from:
 <h1>About</h1>
 
 <p>
-I am a fourth-year Ph.D. student at the <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research (AIR)</a>, Tsinghua University, advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a> and <a href="https://air.tsinghua.edu.cn/en/info/1046/1188.htm">Prof. Ya-Qin Zhang</a>. I received my B.S. from the University of Chinese Academy of Sciences (UCAS) in 2022, where I worked with <a href="https://people.ucas.edu.cn/~qmhuang?language=en">Prof. Qingming Huang</a>.
+I am an Algorithm Engineer at TARS Robotics. I received my Ph.D. from the <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research (AIR)</a>, Tsinghua University, where I was advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a> and <a href="https://air.tsinghua.edu.cn/en/info/1046/1188.htm">Prof. Ya-Qin Zhang</a>. Prior to that, I received my B.S. from the University of Chinese Academy of Sciences (UCAS) in 2022, where I worked with <a href="https://people.ucas.edu.cn/~qmhuang?language=en">Prof. Qingming Huang</a>.
 </p>
 
 <p>
@@ -168,11 +168,19 @@ First-author / co-first-author works are highlighted below. A full list — incl
 </ul>
 </section>
 
+<section id="experience">
+<h1>Experience</h1>
+
+<ul class="simple-list">
+  <li><span class="when">2026 – Present</span>Algorithm Engineer, TARS Robotics.</li>
+</ul>
+</section>
+
 <section id="education">
 <h1>Education</h1>
 
 <ul class="simple-list">
-  <li><span class="when">2022 – Present</span>Ph.D. Student, Institute for AI Industry Research (AIR), Tsinghua University.</li>
+  <li><span class="when">2022 – 2026</span>Ph.D., Institute for AI Industry Research (AIR), Tsinghua University.</li>
   <li><span class="when">2018 – 2022</span>B.S., School of Computer Science and Technology, University of Chinese Academy of Sciences.
     <ul style="margin:0.2em 0 0;padding-left:0;list-style:none;"><li style="font-size:0.92em;color:#666;"><em>GPA 3.94 / 4.00, Rank 1 / 104.</em></li></ul>
   </li>
